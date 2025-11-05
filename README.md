@@ -10,9 +10,7 @@ A tool designed to help organizations implement and assess their cybersecurity p
 
 The is an open source project, and improvement ideas to drive cyber risk reduction with CSF assessments are welcome from the Simply Cyber and other awesome communities. 
 
-![Simply Cyber Academy Logo](public/SC_SimplyCyberAcademy_color.png)
-
-Find in depth videos for CSF profile assessments and this tool in Simply Cyber Academy here: https://academy.simplycyber.io/p/accrp
+This tool is powered by Claude AI to help organizations assess their cybersecurity posture using the NIST Cybersecurity Framework 2.0.
 
 ## Disclaimer
 

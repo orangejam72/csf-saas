@@ -977,9 +977,9 @@ const handleExport = () => {
         <header className="bg-blue-700 text-white p-4">
           <div className="flex justify-between items-center">
             <div className="flex items-center gap-4">
-              <img 
-                src="/SC_SimplyCyberAcademy.png" 
-                alt="Simply Cyber Academy Logo" 
+              <img
+                src="/claude-logo.svg"
+                alt="Claude AI Logo"
                 className="h-16 mr-4"
               />
               <div>
