@@ -1,19 +1,19 @@
 {
-  "short_name": "CSF Profile Assessment",
-  "name": "CSF Profile Assessment",
+  "short_name": "CSF 2.0 Tool",
+  "name": "NIST CSF 2.0 Assessment Tool",
   "icons": [
     {
-      "src": "SC_Logo.png",
-      "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/png"
+      "src": "claude-logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
     },
     {
-      "src": "SC_Logo.png",
+      "src": "logo192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "SC_Logo.png",
+      "src": "logo512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
